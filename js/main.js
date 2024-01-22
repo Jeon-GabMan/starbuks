@@ -69,8 +69,8 @@ new Swiper('.promotion .swiper-container', {
   sliderPerView: 3,
   spaceBetween: 10,
   centeredSlides: true,
-/*   loop: true ,
+  loop: true ,
   autoplay: {
     delay: 5000
-  }, */
+  },
 });
